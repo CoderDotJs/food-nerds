@@ -183,7 +183,9 @@
 
         /* Blogs Section */
 .blogs-section{
-    padding: 70px 0;
+    margin: 70px 0;
+    background: url(images/shapes/Frame\ 58.jpg) no-repeat;
+    background-size: cover;
 }
 .blogs-section h1{
     color: #676767;
