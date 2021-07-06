@@ -292,7 +292,21 @@ input:not(:last-child), textarea{
     padding: 15px 40px;
 }
 
-
+            /* Visit Store */
+.visit-store-section{
+    background: url(images/shapes/Frame\ 57.jpg) no-repeat;
+    background-size: 100%;
+    margin: 50px 0;
+}
+.visit-store{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
 
             /* Footer Section */
 
