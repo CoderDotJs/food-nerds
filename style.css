@@ -96,10 +96,10 @@ p{
     padding-bottom: 0;
 }
 
-.about-me .col:first{
+.about-me .col-img{
     width: 40%;
 }
-.about-me .col:last{
+.about-me .col-text{
     width: 50%;
 }
 .about-me h1{
@@ -295,7 +295,7 @@ form{
     text-align: center;
     padding: 40px 0 0 0;
 }
-input:not(:last-child), textarea{
+#firstName, #lastName, #email, textarea{
     border-radius: 7px;
     font-family: 'Montserrat', sans-serif;
     font-size: 17px;
