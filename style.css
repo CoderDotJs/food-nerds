@@ -114,7 +114,7 @@
 }
 .context{
     color: #252525;
-    font-size: 18px !important;
+    font-size: 17px !important;
     font-weight: 400;
     text-align: center;
     padding: 0 250px;
@@ -146,4 +146,34 @@
     padding-top: 20px;
     padding-bottom: 20px;
     margin: 0 !important;
+}
+
+
+        /* Success Section */
+
+.success-section{
+    padding: 50px 0;
+    width: 80%;
+    margin: 0 auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border-radius: 20px;
+}
+.success-section .col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px 0 20px 10% ;
+    text-align: left;
+}
+.success-section .col h1{
+    color: #18191F;
+    font-size: 48px;
+    font-weight: bold;
+}
+.success-section p{
+    margin: 0 !important;
+    font-size: 16px !important;
+    font-weight: 400;
+    padding-top: 15px;
 }
