@@ -80,14 +80,16 @@ p{
 
 .about-img{
     width: 52%;
+    height: 52%;
     display: block;
-    margin: 10% auto 0 auto;
+    margin: 0 auto 0  auto !important;
     padding: 0;
 }
 .about-me{
     background: url(images/shapes/7.png) no-repeat;
+    background-color: #FEF3EC;
     max-height: 500px;
-    background-size: 100%;
+    background-size: cover;
     align-items: center;
     justify-content: space-between;
     overflow: hidden;
