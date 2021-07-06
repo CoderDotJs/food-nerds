@@ -102,4 +102,48 @@
 
 
         /* My Recipe section */
-
+.recipe-section{
+    padding: 70px;
+}
+.recipe-section h1{
+    color: #676767;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.context{
+    color: #252525;
+    font-size: 18px !important;
+    font-weight: 400;
+    text-align: center;
+    padding: 0 250px;
+}
+.card-img{
+    width: 100%;
+    height: auto;
+}
+.card-container{
+    justify-content: space-around;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.card{
+    width: 25%;
+    padding: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border-radius: 30px;
+}
+.card h2{
+    font-size: 28px;
+    font-weight: 900;
+    padding-top: 40px;
+}
+.card p{
+    color: #18191F;
+    font-size: 18px !important;
+    font-weight: 400;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0 !important;
+}
